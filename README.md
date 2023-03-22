@@ -1,2 +1,1 @@
-# RichardF3
 # Python
