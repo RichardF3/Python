@@ -2,10 +2,10 @@ import qrcode
 
 # Define the personal data
 data = {
-    "name": "Richard Fabbri",
-    "email": "richardfabbri1@gmail.com",
-    "phone": "015155709047",
-    "address": "Kurt-Schumacher-Ring 108, 18146 Rostock"
+    "name": "Mario Rossi",
+    "email": "mariorosssi@gmail.com",
+    "phone": "0123456789",
+    "address": "San Paolo, 23 Berlin"
 }
 
 # Define the data structure as vCard
